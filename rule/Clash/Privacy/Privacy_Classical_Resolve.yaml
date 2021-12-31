@@ -1,11 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-12-27 02:10:30
+# UPDATED: 2022-01-01 02:11:05
 # DOMAIN: 13
-# DOMAIN-SUFFIX: 12627
+# DOMAIN-SUFFIX: 12626
 # IP-CIDR: 8
-# TOTAL: 12648
+# TOTAL: 12647
 payload:
   - DOMAIN,hm.baidu.com
   - DOMAIN,hmma.baidu.com
@@ -7543,7 +7543,6 @@ payload:
   - DOMAIN-SUFFIX,rh5i.tradingsat.com
   - DOMAIN-SUFFIX,rhymezebra.com
   - DOMAIN-SUFFIX,rhythmmoney.com
-  - DOMAIN-SUFFIX,richmetrics.com
   - DOMAIN-SUFFIX,richreceipt.com
   - DOMAIN-SUFFIX,righteouscrayon.com
   - DOMAIN-SUFFIX,rightfulfall.com
